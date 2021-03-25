@@ -10,13 +10,13 @@
 
 <fieldset>
 <form method="POST" action="<?php echo $_SERVER['PHP_SELF']; ?>">
-    <h1>T ki frere ?</h1>
+    <h1>T ki ?</h1>
     Name : <br/><input type="text" name="name"><br/>
     Email : <br/><input type="text" name="email"><br/>
     WebSite : <br/><input type="text" name="website"><br/>
     Comment : <br/><textarea name="comment" rows="5" cols="40"></textarea><br/>
     <br/><br/>
-    <h1>c koi ton SAIIIIXSE ??????</h1>
+    <h1>Saixse...</h1>
     <input type="radio" name="gender" value="female">Female<br/>
     <input type="radio" name="gender" value="male">Male<br/>
     <input type="radio" name="gender" value="Sebastien">Sebastien<br/>
